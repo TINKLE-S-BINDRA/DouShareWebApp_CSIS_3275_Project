@@ -49,24 +49,29 @@
 
 # Steps to start the Web Application
 
-Open Visual Studio Code
-Open the File
-Open New Terminal
-Go to 
-C:\Desktop\DouShareWebApp_CSIS_3275_Project\DouShareWebApp_CSIS_3275_Project
-cd doushare-backend
-npm install
-npm start
+# Open Visual Studio Code
+# Open the File
+# Open New Terminal
+# Go to 
+# C:\Desktop\DouShareWebApp_CSIS_3275_Project\DouShareWebApp_CSIS_3275_Project
+# cd doushare-backend
+# npm install
+# npm start
+
+
  <img width="661" height="123" alt="image" src="https://github.com/user-attachments/assets/b7acb694-ed80-4605-974c-4c27fbc58fb2" />
 
 
-Open Second New Terminal
-C:\Desktop\DouShareWebApp_CSIS_3275_Project\DouShareWebApp_CSIS_3275_Project
-cd doushare-frontend
-npm install
-npm run dev
+# Open Second New Terminal
+# C:\Desktop\DouShareWebApp_CSIS_3275_Project\DouShareWebApp_CSIS_3275_Project
+# cd doushare-frontend
+# npm install
+# npm run dev
+
+
  <img width="595" height="278" alt="image" src="https://github.com/user-attachments/assets/5550d8dd-4546-4e87-ab4b-6e3e474ff34a" />
 
-Use link: http://localhost:5173/ to access the webpages.
+# Use link: http://localhost:5173/ to access the webpages.
 
-Start by making profile by Sign up.
+# Start by making profile by Sign up.
+
